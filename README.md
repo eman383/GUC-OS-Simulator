@@ -230,6 +230,3 @@ German University in Cairo
 Dr. Aya Salama
 ```
 
----
-
-Just replace the `> Add team member names here.` line with your actual team members before pushing to GitHub.
